@@ -1,0 +1,19 @@
+El proyecto original pertenece al Youtuber Fazt, enseña paso a paso desde la instalación hasta la designación de variables de entorno. El enlace:
+https://www.youtube.com/watch?v=BP3D03CYFHA
+
+Personalmente:
+
+Este proyecto está finalizado, posee muy pocas diferencias al proyecto expuesto, principalmente en estilos y detalles menores adaptativas al sistema.
+
+Al terminarlo por consola de navegador solo se ve el error de favicon, porque no se creó uno para el ejercicio. (Línea 11).
+
+$ python index.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 584-632-043
+127.0.0.1 - - [07/Mar/2024 17:54:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2024 17:54:21] "GET /favicon.ico HTTP/1.1" 404 -
