@@ -1,6 +1,25 @@
 El proyecto original pertenece al Youtuber Fazt, enseña paso a paso desde la instalación hasta la designación de variables de entorno. El enlace:
 https://www.youtube.com/watch?v=BP3D03CYFHA
 
+
+
+De qué se trata:
+
+Consiste en un gestor de contactos, una página principal con unos inputs para ingresar nombre, e-mail, teléfono. Posee la posibilidad de borrar el contacto como la posibilidad de modificar.
+Estos contactos están guardados y “conectados” a una base de datos SQL. La cual obviamente recibe peticiones de nuevos contactos como modificaciones o eliminación de estos.
+
+Posee visiblemente al navegador solo dos páginas, la principal (raíz) y donde haces el update de la información.
+Lo mejor del proyecto es que esta completamente modulado, haciendo que cada archivo no esté saturado y se haga de fácil lectura.
+
+
+
+¿Se puede Mejorar?
+
+Sí, y no tan solo con los estilos, que los que están son básicos. Sino que se puede crear un log-in para que un administrador lo edite.  
+O se puede separar a la pagina principal como bienvenida y el agregar o listado de contactos en algo aparte.  Entre otras mejoras, pero funcionalmente está con lo que se necesita.
+
+
+
 Personalmente:
 
 Este proyecto está finalizado, posee muy pocas diferencias al proyecto expuesto, principalmente en estilos y detalles menores adaptativas al sistema.
